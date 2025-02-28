@@ -56,8 +56,8 @@
 
 ### 后端
 
-- Java Spring Boot 框架
-- MySQL 数据库 + MyBatis-Plus 框架 + MyBatis X 
+- Java Spring Boot 2.7.6 框架
+- MySQL 5.6 数据库 + MyBatis-Plus 3.5.9 框架 + MyBatis X 
 - Redis 分布式缓存 + Caffeine 本地缓存
 - Jsoup 数据抓取
 - ⭐️ COS 对象存储
